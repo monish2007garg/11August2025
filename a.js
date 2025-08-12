@@ -18,5 +18,5 @@ let student = {
 //2.1 Inline export
 //2.2 Export list export {ExportElement1,ExportElement2,......}
 
-//Named Export List
-export { student};
+//Named Export List While remainig
+export { student as std };  // alias, Urf
